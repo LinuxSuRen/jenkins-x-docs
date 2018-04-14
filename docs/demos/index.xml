@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demos on en</title>
+    <link>b/demos/</link>
+    <description>Recent content in Demos on en</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="b/demos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Create Cluster</title>
+      <link>b/demos/create_cluster/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>b/demos/create_cluster/</guid>
+      <description>This demo creates a new kubernetes cluster using these commands in parallel:
+ jx create cluster gke jx create cluster aks jx create cluster minikube   </description>
+    </item>
+    
+    <item>
+      <title>Create Cluster GKE</title>
+      <link>b/demos/create_cluster_gke/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>b/demos/create_cluster_gke/</guid>
+      <description>This demo uses the jx create cluster gke command to create a new kubernetes cluster:
+ </description>
+    </item>
+    
+    <item>
+      <title>Create Spring</title>
+      <link>b/demos/create_spring/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>b/demos/create_spring/</guid>
+      <description>This demo uses the jx create spring command to create a new Spring Boot application with CI / CD pipelines with GitOps promotions:
+ </description>
+    </item>
+    
+  </channel>
+</rss>
