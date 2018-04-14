@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on en</title>
+    <link>b/categories/</link>
+    <description>Recent content in Categories on en</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="b/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Jenkins X</title>
+      <link>b/categories/about-jenkins-x/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>b/categories/about-jenkins-x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>b/categories/blog/</link>
+      <pubDate>Wed, 11 Apr 2018 16:33:07 +0100</pubDate>
+      
+      <guid>b/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contribute</title>
+      <link>b/categories/contribute/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>b/categories/contribute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamentals</title>
+      <link>b/categories/fundamentals/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>b/categories/fundamentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>b/categories/getting-started/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>b/categories/getting-started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>b/categories/troubleshooting/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>b/categories/troubleshooting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

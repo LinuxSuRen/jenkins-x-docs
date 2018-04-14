@@ -1,0 +1,27 @@
+# Netlify redirects. See https://www.netlify.com/docs/redirects/
+
+/community/contributing/           	b/contribute/
+/demos/                            	b/demos/
+/developing/                       	b/developing/
+/overview/introduction/            	b/getting-started/
+/about-jx/                         	b/about/
+/docs/                             	b/about/
+/troubleshooting/faqs/             	b/troubleshooting/
+/faqs/                             	b/troubleshooting/
+/faq/                              	b/troubleshooting/faq/
+/community/                        	b/community/
+/contribute/community/             	b/community/
+/about/features                    	b/about/features/
+/contribute/development/           	b/contribute/development/
+/overview/usage/                   	b/getting-started/install/
+/extras/livereload/                	b/getting-started/install/
+/doc/usage/                        	b/getting-started/install/
+/usage/                            	b/getting-started/install/
+/about/concepts                    	b/about/concepts/
+/contribute/docs/                  	b/contribute/documentation/
+/contribute/roadmap/               	b/contribute/roadmap/
+/quickstart/                       	b/getting-started/create-cluster/
+/overview/quickstart/              	b/getting-started/create-cluster/
+/meta/license                      	b/about/license/
+/developing/promotion/             	b/developing/promote/
+/release-notes/                    	b/news/
