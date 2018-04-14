@@ -1,4 +1,4 @@
 # Netlify redirects. See https://www.netlify.com/docs/redirects/
 
-/community/                        	a/community/
-/contribute/community/             	a/community/
+/community/                        	/zh/community/
+/contribute/community/             	/zh/community/
