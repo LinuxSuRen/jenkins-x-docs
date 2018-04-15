@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>http://jenkins-x.io/en/sitemap.xml</loc>
+	   	<loc>https://linuxsuren.github.io/jenkins-x-docs/en/sitemap.xml</loc>
 		
 	   	<lastmod>2018-04-11T16:33:07+01:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://jenkins-x.io/zh/sitemap.xml</loc>
+	   	<loc>https://linuxsuren.github.io/jenkins-x-docs/zh/sitemap.xml</loc>
 		
 	</sitemap>
 	

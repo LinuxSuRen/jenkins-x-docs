@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jenkins X News on en</title>
-    <link>http://jenkins-x.io/news/</link>
+    <link>https://linuxsuren.github.io/jenkins-x-docs/news/</link>
     <description>Recent content in Jenkins X News on en</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Apr 2018 16:33:07 +0100</lastBuildDate>
     
-	<atom:link href="http://jenkins-x.io/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://linuxsuren.github.io/jenkins-x-docs/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Changes for April 11 2018</title>
-      <link>http://jenkins-x.io/news/changes-april-11-2018/</link>
+      <link>https://linuxsuren.github.io/jenkins-x-docs/news/changes-april-11-2018/</link>
       <pubDate>Wed, 11 Apr 2018 16:33:07 +0100</pubDate>
       
-      <guid>http://jenkins-x.io/news/changes-april-11-2018/</guid>
+      <guid>https://linuxsuren.github.io/jenkins-x-docs/news/changes-april-11-2018/</guid>
       <description>Changes for April 11 2018 We announced Jenkins X a mere 23 days ago and the feedback has been truly humbling. Thank you all for the awesome feedback!
 We&amp;rsquo;ve made a lot of progress and improvements! The rest of the blog goes into more detail.
 But first I&amp;rsquo;d like to call out a few specific details from the Roadmap:
@@ -25,20 +25,20 @@ But first I&amp;rsquo;d like to call out a few specific details from the Roadmap
     
     <item>
       <title>Introducing Jenkins X</title>
-      <link>http://jenkins-x.io/news/introducing-jenkins-x/</link>
+      <link>https://linuxsuren.github.io/jenkins-x-docs/news/introducing-jenkins-x/</link>
       <pubDate>Mon, 19 Mar 2018 18:36:00 +0200</pubDate>
       
-      <guid>http://jenkins-x.io/news/introducing-jenkins-x/</guid>
+      <guid>https://linuxsuren.github.io/jenkins-x-docs/news/introducing-jenkins-x/</guid>
       <description>Introducing Jenkins X There&amp;rsquo;s a new blog post on jenkins.io which introduces Jenkins X and gives an overview of what it, what we&amp;rsquo;re doing and why:
  Introducing Jenkins X: a CI/CD solution for modern cloud applications on Kubernetes  Please check it out and let us know what you think</description>
     </item>
     
     <item>
       <title>JEP 400 submitted</title>
-      <link>http://jenkins-x.io/news/jep-400-submitted/</link>
+      <link>https://linuxsuren.github.io/jenkins-x-docs/news/jep-400-submitted/</link>
       <pubDate>Fri, 09 Mar 2018 18:36:00 +0200</pubDate>
       
-      <guid>http://jenkins-x.io/news/jep-400-submitted/</guid>
+      <guid>https://linuxsuren.github.io/jenkins-x-docs/news/jep-400-submitted/</guid>
       <description>JEP 400 Submitted for Jenkins X We have submitted JEP 400 to propose Jenkins X as a sub project in the Jenkins Foundation.
 Please check out JEP 400 and let us know what you think on the Jenkins dev list.</description>
     </item>

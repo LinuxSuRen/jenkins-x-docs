@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jenkins-x.io/zh/community/</loc>
+    <loc>https://linuxsuren.github.io/jenkins-x-docs/zh/community/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jenkins-x.io/community/"
+                href="https://linuxsuren.github.io/jenkins-x-docs/community/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://jenkins-x.io/zh/community/"
+                href="https://linuxsuren.github.io/jenkins-x-docs/zh/community/"
                 />
   </url>
   
   <url>
-    <loc>http://jenkins-x.io/zh/</loc>
+    <loc>https://linuxsuren.github.io/jenkins-x-docs/zh/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jenkins-x.io/"
+                href="https://linuxsuren.github.io/jenkins-x-docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://jenkins-x.io/zh/"
+                href="https://linuxsuren.github.io/jenkins-x-docs/zh/"
                 />
   </url>
   
   <url>
-    <loc>http://jenkins-x.io/zh/categories/</loc>
+    <loc>https://linuxsuren.github.io/jenkins-x-docs/zh/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://jenkins-x.io/categories/"
+                href="https://linuxsuren.github.io/jenkins-x-docs/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://jenkins-x.io/zh/categories/"
+                href="https://linuxsuren.github.io/jenkins-x-docs/zh/categories/"
                 />
   </url>
   
